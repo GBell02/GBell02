@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science at Exeter
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me...you can't
+- 👓 I have small eyes
 
 <!---
 GBell02/GBell02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
